@@ -8,8 +8,6 @@ AOXdeface adalah alat untuk melakukan defacing terhadap puluhan atau ratusan sit
 tergantung pada jumlah situs yang telah ditentukan oleh kamu :V, ini tidak berbahaya,<br>
 dan ini hanya metode upload file saja
 
-**screnshoot:**
-![1](https://github.com/icammaci/AOXdeface/blob/master/img/aox.png)
 
 **how to install and usage:**
 
