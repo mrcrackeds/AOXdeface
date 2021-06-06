@@ -31,5 +31,5 @@ dan ini hanya metode upload file saja
 **NOTE:** before using this tool, put your deface script with the aox.py file, edit the file 'target.txt' and enter the target url
 
 
-[INSTAGRAM](https://instagram.com/cracked_212) <br>
-[TWITTER](https://twitter.com/MrCracked3)
+[INSTAGRAM](https://instagram.com/mrcrackeds) <br>
+[TWITTER](https://twitter.com/mr_cracked)
